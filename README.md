@@ -1,4 +1,4 @@
-<h2 align="left">Hey, I'm Refa-!</h2>
+<h2 align="left">I'm Refa-!</h2>
 
 ###
 
